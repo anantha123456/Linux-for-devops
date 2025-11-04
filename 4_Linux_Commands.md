@@ -191,6 +191,8 @@ Running Docker & Kubernetes
 Managing CI/CD pipelines
 Monitoring systems
 
+*This is the Linux Commands Page from the “Linux-for-DevOps” Repository.*
+
 
 
 
