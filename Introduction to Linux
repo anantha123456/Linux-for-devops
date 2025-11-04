@@ -1,0 +1,94 @@
+### What is Linux?
+Linux is a free and open-source operating system known for its security, stability, and multi-user capabilities.
+
+### What is an Operating System (OS)?
+An Operating System is software that acts as a bridge between the user and the hardware, allowing applications to run efficiently.
+
+## Examples of Applications:
+Browsers, MS Office, Notepad, Games, etc., need an OS environment to operate.
+
+## Types of Operating Systems
+Single-user
+Multi-user
+Distributed
+Real-time
+Embedded
+
+## Popular Linux Distributions
+-RedHat
+-Ubuntu
+-Debian
+-CentOS
+-Fedora
+-OpenSUSE
+-Kali Linux
+-Amazon Linux
+-Rocky Linux
+
+##  History of Linux
+📅 Date: September 17, 1991
+👨‍💻 Creator: Linus Torvalds (University of Helsinki, Finland)
+🧩 First Version: Linux Kernel 0.01 (written in C language)
+💡 Initially named “Freax”, later became Linux
+
+Today, Linux powers supercomputers, smartphones,laptops, routers, cars, and even refrigerators!
+
+## Why Linux is used?
+
+- Free and open-source.
+- Highly secure and stable.
+- Used in servers, cloud environments, DevOps, networking, etc.
+- Command-line based — faster and powerful for automation.
+
+
+## Linux Architecture:
+
++--------------------+
+|  Applications      |
++--------------------+
+|  Shell (CLI)       |
++--------------------+
+|  Kernel            |
++--------------------+
+|  Hardware          |
++--------------------+
+
+## Components:
+
+- Kernel – Heart of the OS; manages CPU, memory, devices.
+- Shell – Command interpreter between user and OS.
+- File System – Stores data in a structured way.
+- User space – Applications and commands run here.
+
+## what is the difference between Linux and Windows?
+
+- Linux is a open-source and free; Windows is paid.
+- Linux is more secure and used in servers; Windows is more common in desktops.
+- Linux uses commandline(cLI) heavily; Windows is GUI-focus.
+
+## What is the linux file system Hierarchy?
+
+Everything in Linux is treated as a file. some main directories are:
+
+- /home      - user files
+- /etc       - Configuration files
+- /bin       - basic commands
+- /var       - logs, variable data.
+
+## What is the difference between Sudo and Root user?
+
+- Root is the superuser with the full access.
+- Sudo allows normal users to run commands with root privilages temporarily.
+
+## What are the file permissions in Linux?
+
+Permissions are read(r), write(w) and execute(x) for the three types:
+- User(owner)
+- Group
+- Others
+Ex:  rwxr -xr------
+
+
+
+
+
