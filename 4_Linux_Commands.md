@@ -184,14 +184,13 @@ sh, csh, ksh, zsh
 
 # Linux is the backbone of DevOps.
 
-You’ll use Linux for:
+we will use Linux for:
 Deploying apps on servers
 Writing automation scripts
 Running Docker & Kubernetes
 Managing CI/CD pipelines
 Monitoring systems
 
-*This is the Linux Commands Page from the “Linux-for-DevOps” Repository.*
 
 
 
