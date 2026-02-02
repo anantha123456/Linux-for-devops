@@ -97,9 +97,9 @@ Permissions are **Read (r)**, **Write (w)**, and **Execute (x)** — assigned to
 - **Others**
 
 Example:  -rwxr-xr--
-👉 Owner = rwx | Group = r-x | Others = r--
+- Owner = rwx | Group = r-x | Others = r--
 
-*This is the Introduction Page for the Linux-for-DevOps GitHub Repository.*
+This is the Introduction Page for the Linux-for-DevOps GitHub Repository.
 
 
 
